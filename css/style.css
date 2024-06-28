@@ -1,4 +1,7 @@
-
+body {
+    font-family: GODOFWAR;
+    src: local(GODOFWAR.TTF);
+}
 
 .Merica {
         display: flex;
